@@ -6,19 +6,15 @@
   
 - 🌱 I’m currently learning Project Management & Leadership  
   
-- ⚡ Fun fact: I copy pasting existing solutions 😀  
+- ⚡ Fun fact: I prefer copy/pasting existing solutions 😀  
 
 - 🕒 Have something excited to discuss? <a href="https://calendly.com/faiiziiawan/introduction-meeting" target="_blank">Schedule Meeting</a>
   
 
 <br/>  
 
-
-## My Skill Set  
-
-
-### Tools & Technologies  
-<div align="center">  
+## Tools & Technologies  
+<div>  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
 <a href="https://dart.dev/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
@@ -39,12 +35,19 @@
 
 
 ## Connect with me  
+
 <a href="https://github.com/faiizii" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+
+<a href="https://web.whatsapp.com/send?phone=+923244488099" target="_blank">
+<img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white alt=whatsapp style="margin-bottom: 5px;" />
+</a>
+
 <a href="https://linkedin.com/in/faiiziiawan" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://stackoverflow.com/users/5177596" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  

@@ -8,7 +8,7 @@
   
 - ⚡ Fun fact: I copy pasting existing solutions 😀  
 
-- 🕒 Have something excited to discuss? <a href="calendly.com/faiiziiawan">Schedule Meeting</a>
+- 🕒 Have something excited to discuss? <a href="https://calendly.com/faiiziiawan" target="_blank">Schedule Meeting</a>
   
 
 <br/>  

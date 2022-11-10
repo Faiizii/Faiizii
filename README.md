@@ -1,14 +1,14 @@
-### <div align="center">I'm Muhammad Faizan</div>  
-##### <div align="center">A passionate mobile app developer</div>  
+## <div align="center">Hi! 👋 👋 👋 👋 👋 </div>  
+### <div align="center">I'm Muhammad Faizan, a passionate mobile app developer</div>  
   
 
 - 🔭 I’m currently working with Flutter SDK   
   
-
 - 🌱 I’m currently learning Project Management & Leadership  
   
-
 - ⚡ Fun fact: I copy pasting existing solutions 😀  
+
+- 🕒 Have something excited to discuss? <a href="calendly.com/faiiziiawan">Schedule Meeting</a>
   
 
 <br/>  
